@@ -1,7 +1,7 @@
 // Fill-in information from your Blynk Template here
-#define BLYNK_TEMPLATE_ID           "TMPLwWBG3AuF"
+#define BLYNK_TEMPLATE_ID           "xxxxxxxxxxxxx"
 #define BLYNK_DEVICE_NAME           "IVN Project"
-//#define BLYNK_AUTH_TOKEN "GAxriIlhz9w-BaWhmDyCfTnOojmsPEoJ"
+//#define BLYNK_AUTH_TOKEN "xxxxxxxxxxxxxxxxxx"
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 
 #define BLYNK_PRINT Serial
