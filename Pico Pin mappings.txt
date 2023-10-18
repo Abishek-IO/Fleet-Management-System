@@ -1,0 +1,13 @@
+gps_tx ---- pico_gp12
+gps_rx ---- pico_gp13
+gps_vcc ---- pico_3v3
+gps_gnd ---- pico_gnd
+
+
+can_vcc ---- pico_vbus
+can_gnd ---- pico_gnd
+can_cs ---- pico_gp10
+can_so ---- pico_gp16
+can_si ---- pico_19
+can_sck ---- pico_gp18
+can_int ---- pico_gp2
